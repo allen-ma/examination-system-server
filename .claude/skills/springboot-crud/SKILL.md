@@ -16,7 +16,7 @@ description: 生成标准SpringBoot CRUD代码，包含Entity、Mapper、Service
 
 要求：
 - 包名：com.example
-- 路径：examination-system-backend/src/main/java/com/example/
+- 路径：examination-system-server/src/main/java/com/example/
 - 端口：8080
 - 数据库：MySQL8
 - 使用MyBatis-Plus
